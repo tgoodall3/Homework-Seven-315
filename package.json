@@ -1,0 +1,14 @@
+{
+  "name": "homework-seven-315",
+  "version": "1.0.0",
+  "description": "Homework Seven",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "serve": "Live-server"
+  },
+  "author": "Tyler Goodall",
+  "license": "ISC"
+}
